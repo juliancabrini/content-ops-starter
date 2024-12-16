@@ -364,7 +364,7 @@ sections:
       businesses.
     actions:
       - label: Get started
-        url: /
+        url: /contact-form
         icon: arrowRight
         iconPosition: right
         style: secondary
