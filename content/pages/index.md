@@ -170,7 +170,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: ¿Por qué Vortis?
       color: text-primary
       styles:
         self:
