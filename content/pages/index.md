@@ -86,7 +86,6 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          url: /images/hero2.svg
           altText: Image alt text placeholder
           elementId: ''
           styles:
