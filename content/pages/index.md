@@ -203,7 +203,14 @@ sections:
       Trabajamos con organizaciones del sector salud que buscan maximizar su
       impacto a través del poder de los datos.
     text: |+
-      fdfsdf
+      ### • Clínicas y Hospitales
+
+      ### • Laboratorios
+
+      ### • Centros de Diagnóstico por Imágenes
+
+
+
 
     media:
       title: Title of the video
