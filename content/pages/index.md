@@ -93,10 +93,10 @@ sections:
               borderRadius: x-large
       - title: RECURSOS OPTIMIZADOS
         subtitle: Potenciamos tu negocio con automatización
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Integramos soluciones de inteligencia artificial en tus procesos
+          existentes, reduciendo tareas manuales y mejorando la asignación de
+          recursos.
         image:
           altText: Featured icon two
           elementId: ''
