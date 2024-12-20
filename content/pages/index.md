@@ -234,7 +234,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       Brindamos asesoría, consultoría y soluciones diseñadas específicamente
       para empresas de salud, con un enfoque en eficiencia operativa y
