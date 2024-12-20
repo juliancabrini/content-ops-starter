@@ -12,7 +12,7 @@ sections:
       Con nuestras soluciones de Business Intelligence, transformamos datos en
       insights accionables para optimizar tu operación y estrategia.
     actions:
-      - label: Get started
+      - label: Contacto
         altText: ''
         url: /
         showIcon: false
