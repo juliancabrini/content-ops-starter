@@ -86,11 +86,12 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
           elementId: ''
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: medium
       - title: RECURSOS OPTIMIZADOS
         subtitle: Potenciamos tu negocio con automatización
         text: >
