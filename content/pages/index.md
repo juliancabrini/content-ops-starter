@@ -202,9 +202,7 @@ sections:
     subtitle: >-
       Trabajamos con organizaciones del sector salud que buscan maximizar su
       impacto a través del poder de los datos.
-    text: |+
-      <section id="clients" class="section">
-          <h2>¿A quién ayudamos?</h2>
+    text: |2+
           <div class="clients">
               <ul>
                   <li><strong>Clínicas y Hospitales</strong></li>
