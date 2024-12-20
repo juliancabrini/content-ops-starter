@@ -207,7 +207,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: RECURSOS OPTIMIZADOS
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
