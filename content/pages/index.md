@@ -203,12 +203,14 @@ sections:
       Trabajamos con organizaciones del sector salud que buscan maximizar su
       impacto a través del poder de los datos.
     text: |+
-      ```
-              <li><strong>Clínicas y Hospitales</strong></li>
-              <li><strong>Laboratorios</strong></li>
-              <li><strong>Centros de Diagnóstico por Imágenes</strong></li>
-      ```
-
+      <section id="clients" class="section">
+             <div class="clients">
+              <ul>
+                  <li><strong>Clínicas y Hospitales</strong></li>
+                  <li><strong>Laboratorios</strong></li>
+                  <li><strong>Centros de Diagnóstico por Imágenes</strong></li>
+              </ul>
+          </div>
       </section>
 
     media:
