@@ -200,10 +200,36 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      Brindamos asesoría, consultoría y soluciones diseñadas específicamente
+    text: >+
+      *   Brindamos asesoría, consultoría y soluciones diseñadas específicamente
       para empresas de salud, con un enfoque en eficiencia operativa y
       planificación estratégica basada en datos.
+
+
+      <!---->
+
+
+      *   Brindamos asesoría, consultoría y soluciones diseñadas específicamente
+      para empresas de salud, con un enfoque en eficiencia operativa y
+      planificación estratégica basada en datos.
+
+
+      <!---->
+
+
+      *   Brindamos asesoría, consultoría y soluciones diseñadas específicamente
+      para empresas de salud, con un enfoque en eficiencia operativa y
+      planificación estratégica basada en datos.
+
+
+
+
+
+
+
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
