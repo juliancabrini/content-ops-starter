@@ -183,7 +183,7 @@ sections:
       - type: FeaturedItem
         title: DECISIONES INTELIGENTES
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Transforma tus datos en conocimiento práctico
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
