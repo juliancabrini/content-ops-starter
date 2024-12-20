@@ -202,13 +202,9 @@ sections:
     subtitle: >-
       Trabajamos con organizaciones del sector salud que buscan maximizar su
       impacto a través del poder de los datos.
-    text: |+
-      <section id="clients" class="section">
-          <h2>¿A quién ayudamos?</h2>
-          <p>Trabajamos con organizaciones del sector salud que buscan maximizar su impacto a través del poder de los datos.</p>
-          <div class="clients">
+    text: |2+
               <ul>
-                  <li><strong>Clínicas y Hospitales:</strong> <em>Pequeñas y medianas organizaciones con capacidad instalada limitada pero significativa.</em></li>
+                  <li><strong>Clínicas y Hospitales:</strong> <em>
                   <li><strong>Laboratorios y Centros de Diagnóstico:</strong> <em>Organizaciones que manejan un flujo constante de pacientes y pruebas.</em></li>
               </ul>
           </div>
