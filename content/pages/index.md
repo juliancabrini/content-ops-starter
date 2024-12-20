@@ -7,7 +7,7 @@ sections:
       text: Decisiones inteligentes basadas en datos para el sector salud
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Con nuestras soluciones de Business Intelligence, transformamos datos en
       insights accionables para optimizar tu operación y estrategia.
