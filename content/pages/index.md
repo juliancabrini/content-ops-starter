@@ -61,7 +61,7 @@ sections:
     subtitle: >-
       Asesoría, consultoría y soluciones diseñadas específicamente para empresas
       de salud, con un enfoque en eficiencia operativa y planificación
-      estratégica basada en datos.
+      estratégica basada en datos.Subtitle goes here
     items:
       - type: FeaturedItem
         title: 500k
