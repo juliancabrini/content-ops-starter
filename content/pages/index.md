@@ -210,8 +210,10 @@ sections:
         title: RECURSOS OPTIMIZADOS
         tagline: This is the tagline
         subtitle: Potenciamos tu negocio con automatización
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          Integramos soluciones de inteligencia artificial en tus procesos
+          existentes, reduciendo tareas manuales y mejorando la asignación de
+          recursos.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
