@@ -235,7 +235,7 @@ sections:
       - type: FeaturedItem
         title: COMPETITIVIDAD EN EL MERCADO
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Destácate en un entorno altamente dinámico.
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
