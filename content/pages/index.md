@@ -233,7 +233,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: COMPETITIVIDAD EN EL MERCADO
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
