@@ -193,7 +193,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: ¿Por qué Vortis?
+      text: ¿Quiénes se benefician de nuestras soluciones?
       color: text-dark
       styles:
         self:
