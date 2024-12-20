@@ -64,7 +64,7 @@ sections:
       planificación estratégica basada en datos.
     items:
       - type: FeaturedItem
-        title: Decisiones Inteligentes
+        title: DECISIONES INTELIGENTES
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
