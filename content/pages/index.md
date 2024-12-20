@@ -184,8 +184,10 @@ sections:
         title: DECISIONES INTELIGENTES
         tagline: This is the tagline
         subtitle: Transforma tus datos en conocimiento práctico
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Optimizamos tus operaciones con paneles personalizados y análisis
+          avanzado, diseñados para ofrecerte una visión clara y precisa del
+          desempeño de tu organización.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
