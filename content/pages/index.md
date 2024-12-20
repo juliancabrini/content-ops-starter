@@ -236,8 +236,10 @@ sections:
         title: COMPETITIVIDAD EN EL MERCADO
         tagline: This is the tagline
         subtitle: Destácate en un entorno altamente dinámico.
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Proveemos herramientas basadas en datos que te permiten identificar
+          oportunidades, anticiparte a riesgos y asegurar una posición sólida
+          frente a tus competidores.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
