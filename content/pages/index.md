@@ -117,10 +117,10 @@ sections:
         type: FeaturedItem
       - title: COMPETITIVIDAD EN EL MERCADO
         subtitle: Destácate en un entorno altamente dinámico.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Proveemos herramientas basadas en datos que te permiten identificar
+          oportunidades, anticiparte a riesgos y asegurar una posición sólida
+          frente a tus competidores.
         image:
           altText: Featured icon three
           elementId: ''
