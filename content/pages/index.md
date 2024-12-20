@@ -92,7 +92,7 @@ sections:
             self:
               borderRadius: x-large
       - title: RECURSOS OPTIMIZADOS
-        subtitle: The Job Stuff
+        subtitle: Potenciamos tu negocio con automatización
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
