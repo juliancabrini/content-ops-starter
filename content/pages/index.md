@@ -58,7 +58,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Asesoría, consultoría y soluciones diseñadas específicamente para empresas
+      de salud, con un enfoque en eficiencia operativa y planificación
+      estratégica basada en datos.
     items:
       - type: FeaturedItem
         title: 500k
