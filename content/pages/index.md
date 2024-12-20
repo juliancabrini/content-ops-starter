@@ -66,10 +66,10 @@ sections:
       - type: FeaturedItem
         title: DECISIONES INTELIGENTES
         subtitle: Transforma tus datos en conocimiento práctico.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Optimizamos tus operaciones con paneles personalizados y análisis
+          avanzado, diseñados para ofrecerte una visión clara y precisa del
+          desempeño de tu organización.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
