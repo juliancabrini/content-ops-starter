@@ -209,7 +209,7 @@ sections:
       - type: FeaturedItem
         title: RECURSOS OPTIMIZADOS
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Potenciamos tu negocio con automatización
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
