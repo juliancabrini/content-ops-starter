@@ -175,7 +175,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      Brindamos asesoría, consultoría y soluciones diseñadas específicamente
+      para empresas de salud, con un enfoque en eficiencia operativa y
+      planificación estratégica basada en datos.
     items:
       - type: FeaturedItem
         title: Feature Item One
