@@ -203,13 +203,16 @@ sections:
       Trabajamos con organizaciones del sector salud que buscan maximizar su
       impacto a través del poder de los datos.
     text: |+
-      ######  Clínicas y Hospitales
-
-      ###### • Laboratorios
-
-      ###### • Centros de Diagnóstico por Imágenes
-
-
+      <section id="clients" class="section">
+          <h2>¿A quién ayudamos?</h2>
+          <p>Trabajamos con organizaciones del sector salud que buscan maximizar su impacto a través del poder de los datos.</p>
+          <div class="clients">
+              <ul>
+                  <li><strong>Clínicas y Hospitales:</strong> <em>Pequeñas y medianas organizaciones con capacidad instalada limitada pero significativa.</em></li>
+                  <li><strong>Laboratorios y Centros de Diagnóstico:</strong> <em>Organizaciones que manejan un flujo constante de pacientes y pruebas.</em></li>
+              </ul>
+          </div>
+      </section>
 
     media:
       title: Title of the video
