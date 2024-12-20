@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Demostración gratuita
         altText: ''
         url: /
         showIcon: false
