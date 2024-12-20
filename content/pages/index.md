@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: DECISIONES INTELIGENTES
-        subtitle: Numbers Done
+        subtitle: Transforma tus datos en conocimiento práctico.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
