@@ -199,7 +199,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      Trabajamos con organizaciones del sector salud que buscan maximizar su
+      impacto a través del poder de los datos.
     text: |+
       fdfsdf
 
