@@ -143,7 +143,7 @@ sections:
             flexDirection: col
     actions:
       - type: Button
-        label: Get started
+        label: Demo gratuita
         altText: ''
         url: /
         showIcon: false
