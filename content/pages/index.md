@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: '"Decisiones inteligentes basadas en datos para el sector salud."'
+      text: Decisiones inteligentes basadas en datos para el sector salud
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
