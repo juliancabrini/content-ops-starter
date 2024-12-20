@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: DECISIONES INTELIGENTES
-        subtitle: Transforma tus datos en conocimiento práctico.
+        subtitle: Transforma tus datos en conocimiento práctico
         text: >
           Optimizamos tus operaciones con paneles personalizados y análisis
           avanzado, diseñados para ofrecerte una visión clara y precisa del
